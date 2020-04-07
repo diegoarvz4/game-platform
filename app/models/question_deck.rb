@@ -1,0 +1,2 @@
+class QuestionDeck < ApplicationRecord
+end
